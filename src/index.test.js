@@ -1,7 +1,7 @@
-import { ExampleComponent } from '.'
+import { AutofillInput } from '.'
 
-describe('ExampleComponent', () => {
+describe('AutofillInput', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(AutofillInput).toBeTruthy()
   })
 })
